@@ -5,7 +5,7 @@
 
 python port of the book: An Introduction to Bayesian Data Analysis for Cognitive Science  (initally Chapter 1-5)
 
-book website: https://vasishth.github.io/bayescogsci/book/
+book website: http://bruno.nicenboim.me/bayescogsci/
 
 
 
